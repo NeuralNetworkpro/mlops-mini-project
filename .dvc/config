@@ -1,4 +1,4 @@
 [core]
-    remote = myremote
-['remote "myremote"']
-    url = /Users/jyoti/Downloads/mlops
+    remote = dvcstore
+['remote "dvcstore"']
+    url = s3://mlops-bucket-neuralnetwork
